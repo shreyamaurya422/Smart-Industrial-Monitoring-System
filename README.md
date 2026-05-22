@@ -40,6 +40,12 @@ This project demonstrates sensor interfacing, automation, and real-time safety m
 - Mobile app monitoring
 - Cloud data storage
 - SMS/Email alerts
+  
+## Circuit Diagram 
+<img width="1276" height="971" alt="Screenshot 2026-05-22 193242" src="https://github.com/user-attachments/assets/3f1a50ea-77b6-42ad-a302-bbdbee2a97e9" />
+
+## Simulation
+<img width="1404" height="726" alt="Screenshot 2026-05-22 170449" src="https://github.com/user-attachments/assets/0f80a18c-98a5-4a71-98b8-301a5f9190c5" />
 
 ## Author
 Shreya Maurya
